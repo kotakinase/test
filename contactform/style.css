@@ -1,0 +1,33 @@
+.title{
+    width: 30%;
+    height: 30px;
+    line-height: 30px;
+    background-color: gainsboro;
+    margin: 20px;
+    padding-left: 10px;
+    border-left-style: solid;
+    border-left-color: red;
+    border-left-width: 4px;
+}
+
+.formbox{
+    width: 30%;
+    margin-left: 20px;
+    border: solid;
+    border-color: gainsboro;
+    border-width: 3px;
+    border-radius: 0.5em;
+}
+
+form{
+    margin: 23px;
+}
+
+.send{
+    background-color: darkgray;
+    color: white;
+    border-color: darkgray;
+    border-style: solid;
+    border-radius: 0.3em;
+    box-shadow: 0px 2px 0px 0px rgba(0,0,0,0.2);
+}
